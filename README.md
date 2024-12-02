@@ -11,7 +11,7 @@ If a bullet hits the player, the game ends, and a loss sound is triggered.
 ---
 
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-6-7e8437a0b5.gif" alt="Chase/Catch Game GIF" />
+  <img src="https://github.com/user-attachments/assets/0b9c9094-709b-4416-89de-69c1eeba5701" alt="Chase/Catch Game GIF" />
 </p>
 
 ---
@@ -20,3 +20,4 @@ If a bullet hits the player, the game ends, and a loss sound is triggered.
 > If you don't want to go through the setup step by step, you can directly access the game from the Steam Workshop.
 > 
 > [Click here to access the game on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3375752094)
+
